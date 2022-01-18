@@ -1,0 +1,726 @@
+{
+  "tarifler": [
+    {
+      "Adi": "Masoor Dal",
+      "Aciklama": "Bir tencerede tereyağı eritelim. Soğan ve sarımsakları kavuralım.\nSalçayı ekleyip kavuralım. Nohutları ilave edip karıştıralım.\nNohutların üzerini geçecek kadar kaynar su ekleyelim. Birkaç taşım kaynatalım.\nKalan tüm malzemeyi ekleyelim. Mercimekler yumuşayana kadar pişirelim.\nÜzerine taze kişniş serperek servis edebilirsiniz. Afiyet olsun ",
+      "ResimUrl": "https://i.nefisyemektarifleri.com/2021/09/12/masoor-dal-hint-mutfagi-kirmizi-mercimek-corbasi.jpg",
+      "KategoriId": "1",
+      "MutfakId": "1",
+      "IcerikListesi": [
+        {
+          "Miktar": 1,
+          "Birim": "Adet",
+          "Malzeme": "yemeklik doğranmış soğan"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "diş",
+          "Malzeme": "rendelenmiş sarımsak"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "tereyağ"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "domates salçası"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "haşlanmış nohut"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "rendelenmiş taze zencefil"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "rendelenmiş taze zerdeçal"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "kimyon tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "hardal tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "toz zerdeçal"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "rezene tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "garam masala"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "rendelenmiş muskat"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "toz chili biber"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "adet",
+          "Malzeme": "karanfil"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "kırmızı mercimek"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı",
+          "Malzeme": "Kaynar su"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "tuz"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "taze kişniş"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "maydanoz"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "Adi": "Churros",
+      "Aciklama": "Suyu, tereyağını ve tuzu orta boy bir tencereye alın, orta ateşte kaynatın.\nTencerenin altını kısın ve kısık ateşte un toparlanıncaya kadar karıştırarak pişirin.\nToplanan hamuru ocaktan alın. Hamurun üzerine yumurtaları tek tek ekleyerek tahta kaşıkla ya da silikon kaşıkla karıştırın.\nYumurtaların pişmemesi için hamura tek tek ilave edin. 1 tane ilave edip karıştırın, tamamen hamura karışınca diğer yumurtayı ekleyin, son yumurta içinde aynı işlemi uygulayın.\nYumuşak ve hafifçe yapışkan bir hamur elde ettiğinizde hamurunuzu duy takılı krema sıkma torbasına alın.\nAy çiçek yağını tavaya alın ve kızdırın. Kızan yağın içine istediğiniz uzunlukta hamur sıkın ve elinizle kesin.\nFotoğraftaki gibi kızarınca kevgir yardımıyla yağınız süzdürerek havlu kağıt serilmiş tabağa alın.\nSıcak tatlıları toz şekere bulayın ve benmaride erittiğiniz çikolatayla servis edin.",
+      "ResimUrl": "https://mutfaksirlari.com/wp-content/uploads/2013/11/churros_tarifi.jpg",
+      "KategoriId": "5",
+      "MutfakId": "2",
+      "IcerikListesi": [
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı ",
+          "Malzeme": "un"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı ",
+          "Malzeme": "su"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "adet ",
+          "Malzeme": "yumurta"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "su bardağı",
+          "Malzeme": "tereyağı"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "tuz"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı ",
+          "Malzeme": "sıvı yağ"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "paket",
+          "Malzeme": "bitter çikolata"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı ",
+          "Malzeme": "toz şeker"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "Adi": "Tavuklu Yakisoba",
+      "Aciklama": "Yaki soba sosunu hazırlamak için; bir sos tenceresinde açık renkli soya sosunu, tuzu, koyu renkli soya sosunu ve pirinç sirkesini orta dereceli ateşte kaynamaya bırakın. Kaynadıktan sonra kısık ateşte yaklaşık 10 dakika kendi halinde pişmeye bırakın. Hazırladığınız sosu soğuması için bir kenarda bekletin. (Kalan sosu daha sonra kullanmak üzere buzdolabında saklayabilirsiniz.). Noodleları, ambalaj üzerinde belirtilen pişirme talimatlarına uygun olarak pişirin. Suyunu süzüp, soğuk sudan geçirin ve suyunun iyice akması için bir kenarda bekletin. Derin bir kasede 3-4 yemek kaşığı yaki soba sosunu, ince dilimlenmiş soğanları, yeşil soğanları, soya filizlerini ve haşladığınız noodleları iyice birbirine karıştırın. Hazırladığınız karışımı bir kenarda bekletin. Ayçiçek yağını wok tavada ısıtın. Tavuk dilimlerini, kırmızı ve yeşil biberleri ilave edip, yaklaşık 2 dakika orta dereceli ateşte soteleyin. Ardından bir kenarda bekleyen noodle karışımını ilave edin ve 3 dakika boyunca sotelemeyi sürdürün. Son olarak çırpılmış yumurtaları da wok tavaya ilave edin ve 1-2 dakika kadar sürekli karıştırarak pişirin. Tüm malzemeleri iyice karıştırdıktan sonra ocağın altını kapatın ve üzerine kavrulmuş susam taneleri serpiştirip, sıcakken servis edin.",
+      "ResimUrl": "https://www.asyagurme.com/media/images/recipe/129/i_xxAe5u.jpg",
+      "KategoriId": "4",
+      "MutfakId": "3",
+      "IcerikListesi": [
+        {
+          "Miktar": 200,
+          "Birim": "Gram ",
+          "Malzeme": "Tavuk Göğüs, İnce dilimlenmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Porsiyon ",
+          "Malzeme": "Taze Ramen Noodle"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Soğan, İnce dilimlenmiş (yarım ay şeklinde)"
+        },
+        {
+          "Miktar": 4,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Soğan, Dilimlenmiş"
+        },
+        {
+          "Miktar": 125,
+          "Birim": " Gram ",
+          "Malzeme": "Soya Filizi, Yıkanmış"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Biber , Küp kesilmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Adet ",
+          "Malzeme": "Yumurta, Çırpılmış"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Yemek Kaşığı ",
+          "Malzeme": "Ayçiçek Yağı"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "Yemek Kaşığı ",
+          "Malzeme": "Yaki Soba Sosu,(Hazırladığımız)"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "Su Bardağı ",
+          "Malzeme": "Açık Renkli Soya Sosu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Çay Kaşığı",
+          "Malzeme": "Tuz"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Tatlı Kaşığı ",
+          "Malzeme": "Koyu Renkli Soya Sosu"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Tatlı Kaşığı ",
+          "Malzeme": "Pirinç Sirkesi"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "Tatlı Kaşığı",
+          "Malzeme": "Kavrulmuş Susam"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "Adi": "Pırasa Yemeği",
+      "Aciklama": "Kış aylarının bir diğer en faydalı besini pırasadır. Soğangiller ailesinden olan pırasa yemeği içerdiği vitaminler sayesinde çoğumuzun gönlüne taht kurmuştur. Lezzeti ile kendine hayran bırakan, bolca vitamin deposu olan pırasa yemeğini birde yanına yoğurt alarak deneyin. İçerisindeki havuçla bir bütün olan yemeğimize 1-2 damlada limon sıkarsanız inanılmaz bir tadı olacaktır. Annelerimizin sürekli hadi ye kızım, hadi ye oğlum dediği pırasayı birde benim tarifimi deneyerek yiyin. 2. tabağı da isteyeceksiniz. Tarifimi denemeyi ve defterinize eklemeyi unutmayın. Deneyeceklere şimdiden afiyet olsun.Gelelim şimdi pırasa yemeği için gerekli malzemelere :)",
+      "ResimUrl": "https://i.nefisyemektarifleri.com/2019/12/12/pirasa-yemegi-nasil-yapilir.jpg",
+      "KategoriId": "1",
+      "MutfakId": "1",
+      "IcerikListesi": [
+        {
+          "Miktar": 1,
+          "Birim": "Adet",
+          "Malzeme": "yemeklik doğranmış soğan"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "diş",
+          "Malzeme": "rendelenmiş sarımsak"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "tereyağ"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "domates salçası"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "haşlanmış nohut"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "rendelenmiş taze zencefil"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "rendelenmiş taze zerdeçal"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "kimyon tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "hardal tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "toz zerdeçal"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "rezene tohumu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tatlı kaşığı",
+          "Malzeme": "garam masala"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "rendelenmiş muskat"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "toz chili biber"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "adet",
+          "Malzeme": "karanfil"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "kırmızı mercimek"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı",
+          "Malzeme": "Kaynar su"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "tuz"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "taze kişniş"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "maydanoz"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "Adi": "Mucver",
+      "Aciklama": "Suyu, tereyağını ve tuzu orta boy bir tencereye alın, orta ateşte kaynatın.\nTencerenin altını kısın ve kısık ateşte un toparlanıncaya kadar karıştırarak pişirin.\nToplanan hamuru ocaktan alın. Hamurun üzerine yumurtaları tek tek ekleyerek tahta kaşıkla ya da silikon kaşıkla karıştırın.\nYumurtaların pişmemesi için hamura tek tek ilave edin. 1 tane ilave edip karıştırın, tamamen hamura karışınca diğer yumurtayı ekleyin, son yumurta içinde aynı işlemi uygulayın.\nYumuşak ve hafifçe yapışkan bir hamur elde ettiğinizde hamurunuzu duy takılı krema sıkma torbasına alın.\nAy çiçek yağını tavaya alın ve kızdırın. Kızan yağın içine istediğiniz uzunlukta hamur sıkın ve elinizle kesin.\nFotoğraftaki gibi kızarınca kevgir yardımıyla yağınız süzdürerek havlu kağıt serilmiş tabağa alın.\nSıcak tatlıları toz şekere bulayın ve benmaride erittiğiniz çikolatayla servis edin.",
+      "ResimUrl": "https://superbiyemek.com/fileman/Uploads/tarif/taze-fasulyeli-mucver.png",
+      "KategoriId": "5",
+      "MutfakId": "2",
+      "IcerikListesi": [
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı ",
+          "Malzeme": "un"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı ",
+          "Malzeme": "su"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "adet ",
+          "Malzeme": "yumurta"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "su bardağı",
+          "Malzeme": "tereyağı"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "tuz"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı ",
+          "Malzeme": "sıvı yağ"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "paket",
+          "Malzeme": "bitter çikolata"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı ",
+          "Malzeme": "toz şeker"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "Adi": "Börtlenli Pasta",
+      "Aciklama": "Yaki soba sosunu hazırlamak için; bir sos tenceresinde açık renkli soya sosunu, tuzu, koyu renkli soya sosunu ve pirinç sirkesini orta dereceli ateşte kaynamaya bırakın. Kaynadıktan sonra kısık ateşte yaklaşık 10 dakika kendi halinde pişmeye bırakın. Hazırladığınız sosu soğuması için bir kenarda bekletin. (Kalan sosu daha sonra kullanmak üzere buzdolabında saklayabilirsiniz.). Noodleları, ambalaj üzerinde belirtilen pişirme talimatlarına uygun olarak pişirin. Suyunu süzüp, soğuk sudan geçirin ve suyunun iyice akması için bir kenarda bekletin. Derin bir kasede 3-4 yemek kaşığı yaki soba sosunu, ince dilimlenmiş soğanları, yeşil soğanları, soya filizlerini ve haşladığınız noodleları iyice birbirine karıştırın. Hazırladığınız karışımı bir kenarda bekletin. Ayçiçek yağını wok tavada ısıtın. Tavuk dilimlerini, kırmızı ve yeşil biberleri ilave edip, yaklaşık 2 dakika orta dereceli ateşte soteleyin. Ardından bir kenarda bekleyen noodle karışımını ilave edin ve 3 dakika boyunca sotelemeyi sürdürün. Son olarak çırpılmış yumurtaları da wok tavaya ilave edin ve 1-2 dakika kadar sürekli karıştırarak pişirin. Tüm malzemeleri iyice karıştırdıktan sonra ocağın altını kapatın ve üzerine kavrulmuş susam taneleri serpiştirip, sıcakken servis edin.",
+      "ResimUrl": "https://superbiyemek.com/fileman/Uploads/32-ramazan-menusu.jpg",
+      "KategoriId": "4",
+      "MutfakId": "6",
+      "IcerikListesi": [
+        {
+          "Miktar": 200,
+          "Birim": "Gram ",
+          "Malzeme": "Tavuk Göğüs, İnce dilimlenmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Porsiyon ",
+          "Malzeme": "Taze Ramen Noodle"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Soğan, İnce dilimlenmiş (yarım ay şeklinde)"
+        },
+        {
+          "Miktar": 4,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Soğan, Dilimlenmiş"
+        },
+        {
+          "Miktar": 125,
+          "Birim": " Gram ",
+          "Malzeme": "Soya Filizi, Yıkanmış"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Biber , Küp kesilmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Adet ",
+          "Malzeme": "Yumurta, Çırpılmış"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Yemek Kaşığı ",
+          "Malzeme": "Ayçiçek Yağı"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "Yemek Kaşığı ",
+          "Malzeme": "Yaki Soba Sosu,(Hazırladığımız)"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "Su Bardağı ",
+          "Malzeme": "Açık Renkli Soya Sosu"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Çay Kaşığı",
+          "Malzeme": "Tuz"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Tatlı Kaşığı ",
+          "Malzeme": "Koyu Renkli Soya Sosu"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Tatlı Kaşığı ",
+          "Malzeme": "Pirinç Sirkesi"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "Tatlı Kaşığı",
+          "Malzeme": "Kavrulmuş Susam"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "Adi": "Masoor Dal",
+      "Aciklama": "Bir tencerede tereyağı eritelim. Soğan ve sarımsakları kavuralım.\nSalçayı ekleyip kavuralım. Nohutları ilave edip karıştıralım.\nNohutların üzerini geçecek kadar kaynar su ekleyelim. Birkaç taşım kaynatalım.\nKalan tüm malzemeyi ekleyelim. Mercimekler yumuşayana kadar pişirelim.\nÜzerine taze kişniş serperek servis edebilirsiniz. Afiyet olsun ",
+      "ResimUrl": "https://i.nefisyemektarifleri.com/2021/09/12/masoor-dal-hint-mutfagi-kirmizi-mercimek-corbasi.jpg",
+      "KategoriId": "4",
+      "MutfakId": "2",
+      "IcerikListesi": [
+        {
+          "Miktar": 1,
+          "Birim": "Adet",
+          "Malzeme": "yemeklik doğranmış soğan"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "diş",
+          "Malzeme": "rendelenmiş sarımsak"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "tereyağ"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "yemek kaşığı",
+          "Malzeme": "domates salçası"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "haşlanmış nohut"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "rendelenmiş muskat"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "çay kaşığı",
+          "Malzeme": "toz chili biber"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "adet",
+          "Malzeme": "karanfil"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı",
+          "Malzeme": "kırmızı mercimek"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı",
+          "Malzeme": "Kaynar su"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "tuz"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "taze kişniş"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "tutam",
+          "Malzeme": "maydanoz"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "Adi": "Churros",
+      "Aciklama": "Suyu, tereyağını ve tuzu orta boy bir tencereye alın, orta ateşte kaynatın.\nTencerenin altını kısın ve kısık ateşte un toparlanıncaya kadar karıştırarak pişirin.\nToplanan hamuru ocaktan alın. Hamurun üzerine yumurtaları tek tek ekleyerek tahta kaşıkla ya da silikon kaşıkla karıştırın.\nYumurtaların pişmemesi için hamura tek tek ilave edin. 1 tane ilave edip karıştırın, tamamen hamura karışınca diğer yumurtayı ekleyin, son yumurta içinde aynı işlemi uygulayın.\nYumuşak ve hafifçe yapışkan bir hamur elde ettiğinizde hamurunuzu duy takılı krema sıkma torbasına alın.\nAy çiçek yağını tavaya alın ve kızdırın. Kızan yağın içine istediğiniz uzunlukta hamur sıkın ve elinizle kesin.\nFotoğraftaki gibi kızarınca kevgir yardımıyla yağınız süzdürerek havlu kağıt serilmiş tabağa alın.\nSıcak tatlıları toz şekere bulayın ve benmaride erittiğiniz çikolatayla servis edin.",
+      "ResimUrl": "https://mutfaksirlari.com/wp-content/uploads/2013/11/churros_tarifi.jpg",
+      "KategoriId": "1",
+      "MutfakId": "3",
+      "IcerikListesi": [
+        {
+          "Miktar": 2,
+          "Birim": "su bardağı ",
+          "Malzeme": "un"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "su bardağı ",
+          "Malzeme": "su"
+        },
+        {
+          "Miktar": 3,
+          "Birim": "adet ",
+          "Malzeme": "yumurta"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "su bardağı",
+          "Malzeme": "tereyağı"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "Adi": "Tavuklu Yakisoba",
+      "Aciklama": "Yaki soba sosunu hazırlamak için; bir sos tenceresinde açık renkli soya sosunu, tuzu, koyu renkli soya sosunu ve pirinç sirkesini orta dereceli ateşte kaynamaya bırakın. Kaynadıktan sonra kısık ateşte yaklaşık 10 dakika kendi halinde pişmeye bırakın. Hazırladığınız sosu soğuması için bir kenarda bekletin. (Kalan sosu daha sonra kullanmak üzere buzdolabında saklayabilirsiniz.). Noodleları, ambalaj üzerinde belirtilen pişirme talimatlarına uygun olarak pişirin. Suyunu süzüp, soğuk sudan geçirin ve suyunun iyice akması için bir kenarda bekletin. Derin bir kasede 3-4 yemek kaşığı yaki soba sosunu, ince dilimlenmiş soğanları, yeşil soğanları, soya filizlerini ve haşladığınız noodleları iyice birbirine karıştırın. Hazırladığınız karışımı bir kenarda bekletin. Ayçiçek yağını wok tavada ısıtın. Tavuk dilimlerini, kırmızı ve yeşil biberleri ilave edip, yaklaşık 2 dakika orta dereceli ateşte soteleyin. Ardından bir kenarda bekleyen noodle karışımını ilave edin ve 3 dakika boyunca sotelemeyi sürdürün. Son olarak çırpılmış yumurtaları da wok tavaya ilave edin ve 1-2 dakika kadar sürekli karıştırarak pişirin. Tüm malzemeleri iyice karıştırdıktan sonra ocağın altını kapatın ve üzerine kavrulmuş susam taneleri serpiştirip, sıcakken servis edin.",
+      "ResimUrl": "https://www.asyagurme.com/media/images/recipe/129/i_xxAe5u.jpg",
+      "KategoriId": "4",
+      "MutfakId": "3",
+      "IcerikListesi": [
+        {
+          "Miktar": 200,
+          "Birim": "Gram ",
+          "Malzeme": "Tavuk Göğüs, İnce dilimlenmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Porsiyon ",
+          "Malzeme": "Taze Ramen Noodle"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Soğan, İnce dilimlenmiş (yarım ay şeklinde)"
+        },
+        {
+          "Miktar": 4,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Soğan, Dilimlenmiş"
+        },
+        {
+          "Miktar": 125,
+          "Birim": " Gram ",
+          "Malzeme": "Soya Filizi, Yıkanmış"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "Adet ",
+          "Malzeme": "Yeşil Biber , Küp kesilmiş"
+        },
+        {
+          "Miktar": 2,
+          "Birim": "Adet ",
+          "Malzeme": "Yumurta, Çırpılmış"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "Adi": "Acılı Lahmacun Tarifi",
+      "Aciklama": "Unu bir kabın içine eliyoruz. Maya ve tuzu ekleyip harmanlıyoruz.\nIlık suyun içine zeytinyağını koyuyoruz. Unun ortasını havuz şeklinde açıp suyu içine döküyoruz.\nHepsini harmanlıyoruz. Tezgahı ve elimizi unlayıp elastik ve yumuşak bir hamur elde edene kadar yoğuruyoruz (10-15 dk.)\nKabımızın içini yağlayıp hamurumuzu kaba aktarıp üstünü kapatıp iki katı olana kadar dinlendiriyoruz (30-45 dk.)\nHamuru unlanmış tezgaha alıp eşit parçalara bölüyoruz. (Benim yaptığım hamurdan yaklaşık 75 gramlık 6 parça çıktı)\nHer parçayı merdane ile çok ince bir şekilde açıyoruz (Yırtılmayacak şekilde, ne kadar ince açarsanız o kadar iyi sonuç alıyorsunuz. Çünkü pişerken hafif kabarıyorlar)\nAçtığımız hamurun içine, harcı elimizle eşit şekilde bastırarak yayıyoruz. (Kıymayı yayarken hamurda hafif boş alanlar kalabilir, kıymayı çok sıkıştırmayın)\nFırının ızgara bölümünü açıyoruz maksimum sıcaklıkta.\nTeflon tavayı ısıtıyoruz (ben krep tavası kullandım en büyük boyu)\nLahmacunu içine koyup altı hafif kızarana kadar pişiriyoruz. Sonra ızgara bölümüne koyuyoruz. (Kapak hafif açık kalacak)\nKenarları hafif kızarınca hemen çıkartıp ikiye katlayıp üstüne havlu örtüyoruz.",
+      "ResimUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnJRteuN8K9oH7j885KLhFt4xmRb13jDKLxQ&usqp=CAU",
+      "KategoriId": "4",
+      "MutfakId": "5",
+      "IcerikListesi": [
+        {
+          "Miktar": 7,
+          "Birim": "gr",
+          "Malzeme": "hamur"
+        },
+        {
+          "Miktar": 10,
+          "Birim": "gr",
+          "Malzeme": "pul biber"
+        },
+        {
+          "Miktar": 10,
+          "Birim": "diş",
+          "Malzeme": "sarımsak"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "Adi": "Kuşbaşılı Pide Tarifi",
+      "Aciklama": "Önce kıymalı içimizi hazırlayalım. Pide yapımında unutulmaması gereken bazı önemli unsurlar var birincisi iç malzemelerinizi ayrı ayrı robotton geçirin, eğer robotunuz yoksa, çok ince şekilde doğramanız lazım.\nBen önce soğanları, sonra domatesi ve biberi robottan geçirdim.\nMaydanozu robottan geçirmeyin çok kötü bir yeşil renk salıyor.\nZaman ayırın ve çok ince bıçakla doğrayın.\nKıymayı, baharatları ve diğer bütün malzemeleri ekleyip karıştırın.\nEtiniz yağsızsa biraz yağda ekleyebilirsiniz.\nÜzerini kapatın, dinlenmeye bırakın.\nHamuru için su, maya ve şekeri karıştırın.\nİki dakika maya kabarana kadar bekleyin.\nGeri kalan bütün malzemelerini ekleyin ve hamur ele yapışmayan bir kıvama gelene kadar yoğurun.\nHamurunuzu dinlenmeye bırakın.\nAçma kısmına gelince hamurunuzu istediğiniz ölçüde bezelere ayırın. Biz portakal boyutunda tuttuk büyüklüklerini.\nUnlanmış bir zeminde hamurunuzu uzunlamasına açın, ortaya içinizi dökün.\nTutması için bastırın.\nEğer içiniz kuru gibi düşünüyorsanız hafif ıslatabilirsiniz elinizi ve o şekilde bastırabilirsiniz.\nKenar katlamak içinde bastırın ve uçlardan birleştirin.\nYağlı kağıda dizin.\nÖnceden ısıtılmış fırına 250 derece üzeri kızara kadar pişirin.\nFırından çıktıkları gibi bol tereyağı sürün.",
+      "ResimUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgQR2wyRU-R3w66saOZG2PpBk0c88xpWOog&usqp=CAU",
+      "KategoriId": "4",
+      "MutfakId": "5",
+      "IcerikListesi": [
+        {
+          "Miktar": 1,
+          "Birim": "kg",
+          "Malzeme": "hamur"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "bardak",
+          "Malzeme": "su"
+        },
+        {
+          "Miktar": 1,
+          "Birim": "bardak",
+          "Malzeme": "un"
+        },
+        {
+          "Miktar": 0.5,
+          "Birim": "kg",
+          "Malzeme": "kuşbaşı"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "Adi": "Pide",
+      "Aciklama": "ojıuhjbjk",
+      "ResimUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgQR2wyRU-R3w66saOZG2PpBk0c88xpWOog&usqp=CAU",
+      "KategoriId": "1",
+      "MutfakId": "1",
+      "IcerikListesi": [
+        {
+          "Miktar": 1,
+          "Birim": "kg",
+          "Malzeme": "hamur"
+        }
+      ],
+      "id": 12
+    }
+  ],
+  "kategoriler": [
+    {
+      "id": 1,
+      "KategoriAdi": "Çorba"
+    },
+    {
+      "id": 2,
+      "KategoriAdi": "Soğuk Başlangıç"
+    },
+    {
+      "id": 3,
+      "KategoriAdi": "Ara Sıcak"
+    },
+    {
+      "id": 4,
+      "KategoriAdi": "Ana Yemek"
+    },
+    {
+      "id": 5,
+      "KategoriAdi": "Tatlı"
+    }
+  ]
+}

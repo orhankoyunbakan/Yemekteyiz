@@ -1,0 +1,81 @@
+<div class="container" style="max-width: 1000px;" >
+    <form [formGroup]="tarifEkleForm" (ngSubmit)="ekleTarif()" class="m-4 p-2 border">
+
+        <div class=" row mb-2">
+            <label for="adi" class="col-xm-1 col-form-label">Tarifin adı</label>
+            <div class="col">
+                <input type="text" class="form-control" id="adi"  formControlName="Adi" placeholder="Tarif Adı">
+            </div>
+          </div>
+          <div class="form-group row mb-2">
+            <label for="resimUrl" class="col-xm-1 col-form-label">Tarifin Resim Url</label>
+            <div class="col">
+                <input type="text" class="form-control" id="resimUrl"  formControlName="ResimUrl" placeholder="Url">
+            </div>
+          </div>
+          <div class="form-group row mb-2">
+            <label for="kategori" class="col-xm-1 col-form-label">Tarifin Kategorisi</label>
+            <div class="col">
+                <select  id="kategori" formControlName="KategoriId" class="form-control">
+                    <option *ngFor="let kategori of Kategoriler" [value]="kategori.id">{{kategori.KategoriAdi}} </option>
+                </select>
+            </div>
+          </div>
+          <div class="form-group row mb-2 ">
+            <label for="mutfak" class="col-xm-1 col-form-label">Tarifin Mutfak Türü</label>
+            <div class="col">
+                <select  id="mutfak" formControlName="MutfakId" class="form-control">
+                    <option *ngFor="let mutfak of Mutfaklar" [value]="mutfak.id">{{mutfak.MutfakAdi}} </option>
+                </select>
+            </div>
+          </div>
+          <div class="mt-2 mb-3 p-3 border ">
+            <label>İçerik Ekle</label>
+        <form [formGroup]="icerikListeForm" (ngSubmit)="ekleIcerik()">
+            <div class="row g-3">
+                <div class="col">
+                    <label for="miktar" >Miktar</label>
+                    <input type="number" class="form-control" id="miktar"  formControlName="Miktar">
+                  </div>
+                  <div class="col">
+                    <label for="birim" >Birim</label>
+                    <input type="text"  id="birim" class="form-control" formControlName="Birim">
+                  </div>
+                  <div class="col">
+                      <label for="malzeme" >Malzeme</label>
+                      <input type="text" id="malzeme" class="form-control" formControlName="Malzeme">
+                    </div>
+                  <div class="col-auto">
+                    <button type="submit" id="ekleIcerik" class="btn btn-primary mt-4">İçerik Ekle</button>
+                  </div>
+            </div>
+            <div class="row mt-2">
+                <label for="icerikler">İçerikler</label>
+                <div id="icerikler" class="col">
+                    <select multiple [formControl]="icerikListIndex" class="form-control" >
+                        <option *ngFor="let icerik of IcerikListesi; index as i" [value]="i">{{icerik.Miktar}} {{icerik.Birim}} {{icerik.Malzeme}}</option>
+                    </select>
+                    
+                </div>
+                <div class="col-auto mt-4">
+                    <button type="button" class="btn btn-primary mb-3" (click)="icerikSil()">içerik Sil</button>
+                </div>
+                
+            </div>
+            
+          </form>
+        </div>
+          <div class="form-group row mb-4">
+            <label for="aciklama" class="col-sm-1 col-form-label">Tarif yapılışı</label>
+            <div class="col">
+                <textarea class="form-control" formControlName="Aciklama" id="aciklama" rows="3"></textarea>
+            </div>
+          </div>
+    
+    
+    <div class="col">
+        <button type="submit" class="btn btn-primary form-control">Tarif Ekle</button>
+    </div>
+    
+    </form>
+</div>

@@ -1,0 +1,29 @@
+
+<div class="container">
+  <hr>
+  <div  class="clearfix">
+      <h3 align="center"><strong>{{tarif.Adi|uppercase}}</strong></h3>
+      <hr>
+      <img [src]="tarif.ResimUrl" class="col-md-4 float-md-end mb-3 ms-md-3 " alt="...">
+      <h4><strong>Tarif</strong></h4>
+      <p>
+        {{tarif.Aciklama}}
+      </p>
+      <h4><strong>Malzemeler</strong></h4>
+      <p *ngFor="let icerik of tarif.IcerikListesi">{{icerik.Miktar}} {{icerik.Birim}} {{icerik.Malzeme}}</p>
+
+    </div>
+    <br>
+</div>
+<hr>
+<div class="container">
+  <app-hikayeler></app-hikayeler>
+  <div class="row">
+    <div class="col-md-6">
+      <app-kategori></app-kategori>
+    </div>
+    <div class="col-md-6">
+      <app-mutfak></app-mutfak>
+    </div>
+  </div>
+

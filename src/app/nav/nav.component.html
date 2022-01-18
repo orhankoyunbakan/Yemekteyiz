@@ -1,0 +1,77 @@
+
+
+    <header style="background-color: #212529; ">
+        <nav role="navigation">
+            <li>
+                <a *ngIf="giris()==false" routerLink="/giris-yap" style="color:black;font-size: 15px; background-color: #ffc107;padding: 5px;border-radius: 15px; float:right;margin-right: 40px; "><strong>Giriş </strong></a>
+                <a *ngIf="giris()==true" routerLink="/tarif-ekle" (click)=cikis()  style="color:black;font-size: 15px; background-color: #ffc107;padding: 5px;border-radius: 15px; float:right;margin-right: 40px; "><strong>Çıkış</strong></a>
+            </li>
+            <a  *ngIf="giris()==true" routerLink="/tarif-ekle" style="color:black;font-size: 15px; background-color: #ffc107;padding: 5px;border-radius: 15px; float:right;margin-right: 2px; "><strong>Tarif Ekle</strong></a>
+            <a href="javascript:void(0);" class="ic menu" tabindex="1">
+                <span style="color:#ffc107 ;" class="line"><strong>|||</strong></span>
+    
+            </a>
+            <a href="javascript:void(0);" class="ic close"></a>
+            <div class="row">
+                <div class="col-md-2">
+                    <a routerLink="anasayfa">
+                        <h3 style=" color:#ffc107;background-color:#212529 ;"><span><strong>YEMEKTEYİZ</strong></span></h3>
+                    </a>
+                </div>
+               
+            </div>
+    
+    
+    
+            <ul class="main-nav">
+    
+                <li class="top-level-link">
+                    <a routerLink="/anasayfa" style="color:#ffc107"><span><strong>ANASAYFA</strong></span></a>
+                </li>
+    
+    
+                <li class="top-level-link">
+                    <a style="color:#ffc107" class="mega-menu"><span><strong>TARİFLER</strong></span></a>
+                    <div class="sub-menu-block">
+                        <div class="row">
+    
+                            <div *ngFor="let kategori of Kategoriler"
+                                style="border-radius: 15px;border-style: solid;border-color:#ffc107;padding: 5px;"
+                                class="col-md-3 col-lg-3 col-sm-3">
+                                <a routerLink="/tarifler/kategori/{{kategori.id}}">
+                                    <h2 align="center" class="sub-menu-head">{{kategori.KategoriAdi}}</h2>
+                                </a>
+                            </div>
+    
+                        </div>
+                    </div>
+                </li>
+    
+    
+                <li class="top-level-link">
+                    <a style="color:#ffc107" class="mega-menu"><span><strong>MUTFAKLAR</strong></span></a>
+                    <div class="sub-menu-block">
+                        <div class="row">
+    
+                            <div *ngFor="let mutfak of Mutfaklar"
+                                style="border-radius: 15px;border-style: solid;border-color:#ffc107;padding: 5px;"
+                                class="col-md-3 col-lg-3 col-sm-3">
+                                <a routerLink="/tarifler/mutfak/{{mutfak.id}}">
+                                    <h2 align="center" class="sub-menu-head">{{mutfak.MutfakAdi}}</h2>
+                                </a>
+                            </div>
+    
+                        </div>
+    
+                    </div>
+                </li>
+    
+               
+    
+            </ul>
+        </nav>
+    
+    </header>
+    
+    
+    

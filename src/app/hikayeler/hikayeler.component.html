@@ -1,0 +1,19 @@
+<div class="container">
+
+    <hr>
+    <h5>EN YENİ TARİFLER</h5>
+    <hr>
+        <div style="overflow-y: scroll;overflow-x: hidden; height:135px;" >
+    
+            <div style="float: left; display:block; padding: 7px;"  *ngFor="let hikaye of tarifler" >
+                <a routerLink="/tarif-detay/{{hikaye.id}}">
+                    <img style="display:block;" style="width: 85px;height: 85px;border-radius: 60px;align-content: center;" [src]="hikaye.ResimUrl" class="hikaye_img" alt="...">
+                </a>
+                    <div class="hikaye_body">
+                    <p style=" width: 1px;" style="text-align: center;" >{{stringLength(hikaye.Adi|uppercase)}}</p>
+                </div>
+            </div>
+            
+        </div>
+    <hr>
+    </div>

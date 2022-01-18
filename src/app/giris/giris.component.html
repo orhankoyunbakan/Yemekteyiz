@@ -1,0 +1,18 @@
+<div class="container p-5" style="width: 500px;">
+    <form #loginForm="ngForm" (ngSubmit)="giris()" class="form-signin">
+        <div class="text-center mb-4">
+            <h1 class="h3 mb-3 fw-normal">
+                Giriş Yap
+            </h1>
+        </div>
+        <div class="form-label-group mb-4">
+            <input type="text" [(ngModel)]="loginVerisi.identifier" name="kullaniciAdi" class="form-control" placeholder="E-posta">
+        </div>
+        <div class="form-label-group mb-4">
+            <input type="password" name="sifre" id="sifre" [(ngModel)]="loginVerisi.password" placeholder="Sifre" class="form-control">
+        </div>
+        <button class="w-100 btn btn-lg btn-primary mb-3" type="submit">Giriş</button>
+        <a class="w-100 btn btn-lg btn-primary" routerLink="/kayit-ol" >Kayit Ol</a>
+
+    </form>
+</div>

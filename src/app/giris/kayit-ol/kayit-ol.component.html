@@ -1,0 +1,28 @@
+<div class="container p-5" style="width: 500px;">
+
+    <form [formGroup]="kullaniciEkleForm" (ngSubmit)="kullaniciEkle()">
+      <div class="text-center mb-4">
+        <h1 class="h3 mb-3 fw-normal">
+            Kayit Ol
+        </h1>
+    </div>
+        <div class="">
+            <div class="col-auto mb-4">
+                <label for="kullaciAdi">Kullanıcı Adı</label>
+                <input type="text"  id="kullaciAdi" class="form-control" placeholder="Kullanici Adi" formControlName="username">
+              </div>
+              <div class="col-auto mb-4">
+                <label for="sifre" >Sifre</label>
+                <input type="password"  id="sifre" class="form-control" placeholder="Sifre" formControlName="password">
+              </div>
+              <div class="col-auto mb-4">
+                <label for="eposta" >E-Posta</label>
+                  <input type="text" id ="eposta" class="form-control mb-4" placeholder="E-posta" formControlName="email">
+                </div>
+              
+                <button type="submit"  class="w-100 btn btn-lg btn-primary">Kayıt Ol</button>
+              
+        </div>
+        
+      </form>
+</div>

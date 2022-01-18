@@ -1,0 +1,7 @@
+
+<h4>{{Baslik|uppercase}}</h4>
+<div class="list-group">
+ 
+  <a *ngFor="let mutfak of Mutfaklar" routerLink="/tarifler/mutfak/{{mutfak.id}}" class="list-group-item list-group-item-action">{{mutfak.MutfakAdi}}</a>
+
+</div>

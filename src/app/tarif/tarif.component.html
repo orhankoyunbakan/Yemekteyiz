@@ -1,0 +1,50 @@
+
+<div class="container">
+
+<div class="row p-4">
+  <div class="col-md-2">
+    <div class="row mb-4">
+      <app-kategori></app-kategori>
+    </div>
+    <div class="row">
+      <app-mutfak></app-mutfak>
+    </div>
+  </div>
+
+  
+  <div class="col-md-10 ">
+    <h3 *ngIf="tarifler; else: noTarif">{{Baslik}}</h3>
+    <div class="form-group ">
+      <input class="form-control" id="tarifAdi" placeholder="Tarif Ara" [(ngModel)]="filtreYazi" 
+        type="text">
+        <small *ngIf="filtreYazi">
+          Şu anda <strong>{{filtreYazi}}</strong> tarifini ariyorsunuz
+        </small>
+    </div>
+    
+    
+    
+    <div class="row">
+      <ng-template #noTarif>
+        <div class="alert alert-primary" role="alert">
+          Burada Tarif Yok!
+        </div>
+      </ng-template>
+      <div *ngFor="let tarif of tarifler | tarifFiltre:filtreYazi" class="card p-2 m-2" style="width: 18rem;">
+        <a routerLink="/tarif-detay/{{tarif.id}}"> <img [src]="tarif.ResimUrl" class="card-img-top" alt="..."  height="250"  style=" object-fit: fill; width: 100%;"></a>
+        <div class="card-body">
+          <h5 class="card-title">{{tarif.Adi|uppercase}}</h5>
+          <p style="overflow: hidden;display: -webkit-box; -webkit-line-clamp: 3;-webkit-box-orient: vertical;"  class="card-text">{{tarif.Aciklama}}</p>
+          <a routerLink="/tarif-detay/{{tarif.id}}"  style="width: 100%;" class="btn btn-warning">Tarife Git</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+      
+
+
